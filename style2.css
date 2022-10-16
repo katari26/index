@@ -11,8 +11,7 @@
     background-image: url(http://www.habilelabs.io/wp-content/uploads/2017/09/it-background-5.jpg);
     background-size: cover;
     background-position: center;
-    backgroung
-    d-color: black;
+   
     backdrop-filter: blur(50);
 }
 
@@ -35,7 +34,7 @@ nav {
 }
 
 span {
-    color: black;
+    color: white;
 }
 
 nav ul li {
@@ -76,6 +75,9 @@ nav ul li a:hover {
     top: 60%;
     left: 8%;
     transform: translateY(-50%);
+     backgroung
+    d-color: black;
+    
 }
 
 h1 {
